@@ -1,0 +1,15 @@
+/Users/olegmonogarov/GeekBrains/с#/seminar5/ptactice/bin/Debug/net6.0/ptactice
+/Users/olegmonogarov/GeekBrains/с#/seminar5/ptactice/bin/Debug/net6.0/ptactice.deps.json
+/Users/olegmonogarov/GeekBrains/с#/seminar5/ptactice/bin/Debug/net6.0/ptactice.runtimeconfig.json
+/Users/olegmonogarov/GeekBrains/с#/seminar5/ptactice/bin/Debug/net6.0/ptactice.dll
+/Users/olegmonogarov/GeekBrains/с#/seminar5/ptactice/bin/Debug/net6.0/ptactice.pdb
+/Users/olegmonogarov/GeekBrains/с#/seminar5/ptactice/obj/Debug/net6.0/ptactice.csproj.AssemblyReference.cache
+/Users/olegmonogarov/GeekBrains/с#/seminar5/ptactice/obj/Debug/net6.0/ptactice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegmonogarov/GeekBrains/с#/seminar5/ptactice/obj/Debug/net6.0/ptactice.AssemblyInfoInputs.cache
+/Users/olegmonogarov/GeekBrains/с#/seminar5/ptactice/obj/Debug/net6.0/ptactice.AssemblyInfo.cs
+/Users/olegmonogarov/GeekBrains/с#/seminar5/ptactice/obj/Debug/net6.0/ptactice.csproj.CoreCompileInputs.cache
+/Users/olegmonogarov/GeekBrains/с#/seminar5/ptactice/obj/Debug/net6.0/ptactice.dll
+/Users/olegmonogarov/GeekBrains/с#/seminar5/ptactice/obj/Debug/net6.0/refint/ptactice.dll
+/Users/olegmonogarov/GeekBrains/с#/seminar5/ptactice/obj/Debug/net6.0/ptactice.pdb
+/Users/olegmonogarov/GeekBrains/с#/seminar5/ptactice/obj/Debug/net6.0/ptactice.genruntimeconfig.cache
+/Users/olegmonogarov/GeekBrains/с#/seminar5/ptactice/obj/Debug/net6.0/ref/ptactice.dll
