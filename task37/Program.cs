@@ -7,38 +7,29 @@
 // [1 2 3 4 5] -> 5 8 3
 // [6 7 3 6] -> 12 10
 
-Console.Clear();
-int[] Ar = { 1, 2, 3, 4, 5, 6, 7};
+//Console.Clear();
+int[] Ar = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 //           0  1  2  3  4  5  6
-int[] NewAr = new int[Ar.Length / 2 +1 ];
+int[] NewAr = new int[Ar.Length / 2+1 ];
 void Newarraywithdualcomposition(int[] Arr)
 {
-    for (int i = 0; i < Ar.Length / 2 ; i++)
+    for (int i = 0; i < Ar.Length / 2; i++)
     {
         NewAr[i] = Ar[i] * Ar[Ar.Length - i - 1];
     }
-NewAr[Ar.Length / 2] = Ar[Ar.Length / 2];
+if (Ar.Length/2 % 2 != 0)
+{
+   NewAr[Ar.Length / 2] = Ar[Ar.Length / 2]; 
+}
+// else
+// {
+
+// }
 }
  //Newarraywithdualcomposition(Ar);
 //Console.WriteLine(string.Join(", ", NewAr));
 //Console.Write("\b");
 
- int[] NewAr2 = new int[Ar.Length / 2];
-void Newarraywithdualcomposition2(int[] Arr)
-{
-    for (int i = 0; i < Ar.Length / 2 ; i++)
-    {
-        NewAr2[i] = Ar[i] * Ar[Ar.Length - i - 1];
-    }
-    NewAr2[Ar.Length / 2] = -1;
-}
-if (Ar.Length/2 % 10 != 0) 
-{
     Newarraywithdualcomposition (Ar);
     Console.WriteLine(string.Join(", ", NewAr));
-}
-else  
-{
-    Newarraywithdualcomposition2 (Ar);
-    Console.WriteLine(string.Join(", ", NewAr2));
-}
+
