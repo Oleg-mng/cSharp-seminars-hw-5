@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/olegmonogarov/GeekBrains/с#/seminar5/task37/task37.csproj",
+      "projectUniqueName": "/Users/olegmonogarov/GeekBrains_/с#/seminar5/task37/task37.csproj",
       "projectName": "task37",
-      "projectPath": "/Users/olegmonogarov/GeekBrains/с#/seminar5/task37/task37.csproj",
+      "projectPath": "/Users/olegmonogarov/GeekBrains_/с#/seminar5/task37/task37.csproj",
       "packagesPath": "/Users/olegmonogarov/.nuget/packages/",
-      "outputPath": "/Users/olegmonogarov/GeekBrains/с#/seminar5/task37/obj/",
+      "outputPath": "/Users/olegmonogarov/GeekBrains_/с#/seminar5/task37/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/olegmonogarov/.nuget/NuGet/NuGet.Config"
